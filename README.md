@@ -2,18 +2,18 @@
 
 Meu nome é Cristian Monster, tenho 20 anos e resido em Blumenau - SC, estou procurando a minha primeira oportunidade na área de TI.
 
-- 👓 Atualmente faço BCC no qual a linguagem principal é Java<br>
-- 💭 Cursando o Entra21 - Java, Angular<br>
-- 🌱 Fazendo curso de Desenvolvimento Web - Html5, CSS3, Bootstrap, Javascript.<br>
-- 📫 Como entrar em contato: Via twitter ou e-mail - Cristianmonster1@gmail.com.<br>
-- ⚡ Sou uma pessoa muito curiosa e autoditata, buscando sempre novos aprendizados<br>
+- 👓 Atualmente faço BCC no qual a linguagem principal é Java<br/>
+- 💭 Cursando o Entra21 - Java, Angular<br/>
+- 🌱 Fazendo curso de Desenvolvimento Web - Html5, CSS3, Bootstrap, Javascript.<br/>
+- 📫 Como entrar em contato: Via twitter ou e-mail - Cristianmonster1@gmail.com.<br/>
+- ⚡ Sou uma pessoa muito curiosa e autoditata, buscando sempre novos aprendizados<br/>
 
   ##
 
 <div align="center">
   <a href="https://github.com/CristianMonster">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianMonster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMonster&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CristianMonster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMonster&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <div style="display: inline_block" align="center"><br>

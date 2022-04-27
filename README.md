@@ -2,11 +2,11 @@
 
 Meu nome é Cristian Monster, tenho 20 anos e resido em Blumenau - SC, estou procurando a minha primeira oportunidade na área de TI.
 
-- 👓 Atualmente faço BCC no qual a linguagem principal é Java<br/>
-- 💭 Cursando o Entra21 - Java, Angular<br/>
-- 🌱 Fazendo curso de Desenvolvimento Web - Html5, CSS3, Bootstrap, Javascript.<br/>
-- 📫 Como entrar em contato: Via twitter ou e-mail - Cristianmonster1@gmail.com.<br/>
-- ⚡ Sou uma pessoa muito curiosa e autoditata, buscando sempre novos aprendizados<br/>
+- 👓 Atualmente faço BCC no qual a linguagem principal é Java
+- 💭 Cursando o Entra21 - Java, Angular
+- 🌱 Fazendo curso de Desenvolvimento Web - Html5, CSS3, Bootstrap, Javascript.
+- 📫 Como entrar em contato: Via twitter ou e-mail - Cristianmonster1@gmail.com.
+- ⚡ Sou uma pessoa muito curiosa e autoditata, buscando sempre novos aprendizados.
 
   ##
 

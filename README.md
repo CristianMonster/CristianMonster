@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Cristian Monster, tenho 20 anos e resido em Blumenau - SC, estou procurando a minha primeira oportunidade na área de TI.
+Meu nome é Cristian Monster, tenho 20 anos e resido em Blumenau - SC, atualmente trabalhando na WK Sistemas como Tecnico de Testes Automatizados.
 
 - 👓 Atualmente faço BCC no qual a linguagem principal é Java.
 - 💭 Cursando o Entra21 - Java, Angular.

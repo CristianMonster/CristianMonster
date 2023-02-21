@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-Meu nome é Cristian Monster, tenho 21 anos e resido em Blumenau - SC, atualmente trabalhando na WK Sistemas como QA.
+My name is Cristian Monster, i´m 21 years old and i live in Brazil.
+Working with Automated Test - QA, using Jscript, Cypress and Appium.
 
-- 👓 Atualmente faço BCC no qual a linguagem principal é Java.
-- 💭 Curso intensivo de Java concluído - Entra21.
-- 🌱 Fazendo curso de API.
+- 👓 Studying Computer Science - FURB.
+- 💭 Java Certification 480 hours - Entra21.
+- 🌱 Studying API by myself.
 - 📫 Cristianmonster1@gmail.com.
-- ⚡ Sou uma pessoa muito curiosa e autoditata, buscando sempre novos aprendizados.
+- ⚡ I am a very curious and self-taught person, always looking for new learning..
 
   ##
 

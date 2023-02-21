@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Cristian Monster, i´m 21 years old and i live in Brazil.
+My name is Cristian Monster, i´m 21 years old and i live in Brazil. 
+<br>
 Working with Automated Test - QA, using Jscript, Cypress and Appium.
 
 - 👓 Studying Computer Science - FURB.

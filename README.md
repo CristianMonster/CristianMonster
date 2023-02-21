@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Meu nome é Cristian Monster, tenho 20 anos e resido em Blumenau - SC, atualmente trabalhando na WK Sistemas como Tecnico de Testes Automatizados.
+Meu nome é Cristian Monster, tenho 21 anos e resido em Blumenau - SC, atualmente trabalhando na WK Sistemas como QA.
 
 - 👓 Atualmente faço BCC no qual a linguagem principal é Java.
-- 💭 Cursando o Entra21 - Java, Angular.
-- 🌱 Fazendo curso de Desenvolvimento Web - Html5, CSS3, Bootstrap, Javascript.
-- 📫 Como entrar em contato: Via twitter ou e-mail - Cristianmonster1@gmail.com.
+- 💭 Curso intensivo de Java concluído - Entra21.
+- 🌱 Fazendo curso de API.
+- 📫 Cristianmonster1@gmail.com.
 - ⚡ Sou uma pessoa muito curiosa e autoditata, buscando sempre novos aprendizados.
 
   ##
